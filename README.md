@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+On top of that I did labs 1 to 25: https://handsonreact.com/docs/labs/ts/25-ReduxWithReact
+
+## How to Run
+
+1. Git clone this repo
+2. `npm install`
+3. `npm run api` to run backend mock server
+4. `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
